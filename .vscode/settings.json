@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "fibo",
+        "fiboiter",
+        "fibonacci"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "spellright.language": [
+        "en",
+        "es"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "python",
+        "code-runner-output"
+    ],
+    "terminal.integrated.allowMnemonics": false,
+    "spellright.parserByClass": {
+        "code-runner-output": {
+            "parser": "plain"
+        }
+    }
+}
